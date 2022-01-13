@@ -1,0 +1,43 @@
+Input Pump Parameters:
+
+Volume Flow Rate, Q [m3/h]: 150.0
+Head of Pump, H [meters]: 100.0
+Rotation Speed, n [rpm]: 3000.0
+Number of Stages, i [-]: 1
+Type of Pump: Single Stage, Single Entry
+Shaft Safety Factor, ssf [-]: 1.1
+H-Q curve coefficient, ft [-]: 1.02
+Number of Blades, Z [-]: 7
+Trailing Edge Angle, Beta2 [deg]: 20.0
+
+Specific Speeds:
+
+ns (RU): 70.68
+nq (EU): 19.36
+
+Meridional Dimensions:
+
+D2 [mm]: 273.9
+b2 [mm]: 17.75
+D0 [mm]: 115.86
+d0 [mm]: 43.01
+L [mm]: 260.2
+
+Blade Dimensions:
+
+Beta1s [deg]: 23.39
+Beta1h [deg]: 40.44
+Beta2 [deg]: 20.0
+Omega [deg]: 114.29
+e1 [mm]: 5.2
+
+Pump Performance Prediction:
+
+Himp [m]: 111.08
+H [m]: 103.84
+P [W]: 54687.6
+Eff [%]: 77.38
+
+ANSYS CFX Prediction:
+Himp [m]: 123.0
+P [W]: 52643.2
